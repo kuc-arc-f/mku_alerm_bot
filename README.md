@@ -1,4 +1,4 @@
-﻿# esp32 , alarm Bot
+﻿# esp32 , alarm Bot (BETA)
 
  Version: 0.9.1
 
@@ -39,6 +39,9 @@ https://github.com/espressif/esp-idf/tree/master/examples/peripherals/ledc
 * sensor value send to Cloud service.
 
 * deep sleep mode run
+
+***
+
 
 ### Layout
 
