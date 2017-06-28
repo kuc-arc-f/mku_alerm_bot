@@ -40,6 +40,10 @@ https://github.com/espressif/esp-idf/tree/master/examples/peripherals/ledc
 
 * deep sleep mode run
 
+### Layout
+
+<img src="https://github.com/kuc-arc-f/screen-img/blob/master/esp32/IMGP6750-top.JPG?raw=true" style="max-width : 100%; max-height: 600px;">
+
 ***
 
 
